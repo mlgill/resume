@@ -1,3 +1,3 @@
 # Resume
 
-My resume, which can be found at [http://resume.michellelynngill.com](http://resume.michellelynngill.com)
+My resume, which can be found at [https://resume.michellelynngill.com](https://resume.michellelynngill.com)
